@@ -33,5 +33,3 @@ Game ini menggunakan gambar di folder `assets/`. Jika gambar tidak ditemukan, ga
 Kamu bisa mengganti gambar `car.png`, `obstacle.png`, dan `background.png` dengan gambarmu sendiri.
 
 ## Screenshot
-
-(Opsional: Tambahkan screenshot game di sini)
